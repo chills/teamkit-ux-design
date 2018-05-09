@@ -5,7 +5,7 @@ Team Kit for UX and Design teams is awesome!
 
 Find a range of assets to help you manage feedback on team health, culture, collaboration and individual career management.
 
-First of the ranks is Team Kit for UX and Design teams:
+First off the ranks are Team Kit for UX and Design team surveys:
 * Team Health Survey
     * Team Health Survey for Survey Monkey
 
