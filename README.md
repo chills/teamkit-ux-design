@@ -9,7 +9,7 @@ First off the ranks are Team Kit for UX and Design team surveys:
 * Team Health Survey
     * Team Health Survey for Survey Monkey
 
-All contents of TeamKit are created under a Creative Commons Attribution Licence. 
+All contents of Team Kit are created under a Creative Commons Attribution Licence. 
 
 © CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
 
