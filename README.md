@@ -1,5 +1,5 @@
 # teamkit-ux-design
-Team Kit for UX and Design -- (Creative Commons Attribution License - BY)
+Team Kit for UX and Design -- (Creative Commons Attribution License)
 Team Kit for UX and Design teams is awesome!
 
 *Team Health Survey - Team Health Survey for Survey Monkey*
@@ -16,4 +16,5 @@ How to use the Team Health Text file for Survey Monkey:
 
 
 All contents of Team Kit are created under a Creative Commons Attribution Licence.
+
 © CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
