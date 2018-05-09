@@ -15,5 +15,5 @@ How to use the Team Health Text file for Survey Monkey:
 7)  Hit "Add Questions" in the dialoge box and you're done!
 
 
-All contents of TeamKit are created under a Creative Commons Attribution Licence.
+All contents of Team Kit are created under a Creative Commons Attribution Licence.
 © CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
