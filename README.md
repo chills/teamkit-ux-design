@@ -1,7 +1,6 @@
 ![team kit](https://user-images.githubusercontent.com/1219082/39807886-d36852f0-53c0-11e8-844a-eccd03036ff8.png)
 
 # teamkit-ux-design
-Team Kit for UX and Design -- (Creative Commons Attribution License - BY)
 
 Team Kit for UX and Design teams is awesome! 
 
