@@ -1,8 +1,12 @@
 # teamkit-ux-design
 Team Kit for UX and Design -- (Creative Commons Attribution License)
+
+*This is the README for the UX and Design Team Health Survey - created for Survey Monkey*
+*What the survey measures: the purpose of the survey is to understand how individuals are feeling about their career development plans and goals, how they feel about their manager, their operational team and leadership, their delivery/project team and the wider organisation*
+
 Team Kit for UX and Design teams is awesome!
 
-*Team Health Survey - Team Health Survey for Survey Monkey*
+*This survey is set up for direct import into Survey Monkey*
 
 How to use the Team Health Text file for Survey Monkey:
 1)  Open Survey Monkey and "create a new survey from scratch"
