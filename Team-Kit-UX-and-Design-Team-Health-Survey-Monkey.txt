@@ -1,0 +1,665 @@
+----------------- [INSERT FIRST PAGE **Page 1 - Welcome to the Team Health Survey ** ]----------------- 
+
+REFER TO READ ME
+© CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
+Creative Commons Attribution License
+
+Intro text: Hello, welcome to the UX and Design Team team health survey! We'd love to understand how you feel about: * your own role; * your delivery team; and * the UX and Design team; and * the wider organisation. Contributing your individual views is important so we can support you and improve your career with us. Your responses will be de-identified when shared with your leaders and/or the wider organisation. Thanks so much! Now let's begin.
+
+
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 2 - About you **]----------------- 
+
+
+Please enter your details
+Name
+Email Address
+
+
+What is your role?
+UX Designer
+Product Designer
+Visual Designer
+UX Researcher
+Interaction Designer
+UX Engineer
+UX Manager
+Other (please specify)
+
+
+What is your level of seniority?
+Associate
+Mid-level
+Senior
+Lead
+Head of Operations
+
+
+How long have you been working here?
+Less than 6 months
+6 months to 1 year
+1 year to 3 years
+3 years to 5 years
+Greater than 5 years
+
+
+How long have you been working in your current role?
+Less than 6 months
+6 months to 1 year
+1 year to 3 years
+3 years to 5 years
+Greater than 5 years
+
+
+Are you a primary care giver? (This applies to children and/or adults in your care)
+Yes
+No
+Other (please specify)
+
+
+Do you have any children under 18 years of age?
+Yes
+No
+Other (please specify)
+
+
+Do you work full-time, part-time or as a contractor?
+Full-time
+Part-time
+Contractor
+Other (please specify)
+
+
+What is your gender?
+Male
+Female
+Prefer not to disclose
+Other (please specify)
+
+
+What is your ethnicity? (Australian Ethnicity List)
+Aboriginal
+Asian (Please specify below)
+British/Irish (Please specify below)
+European (Please specify below)
+African (Please specify below)
+South American (Please specify below)
+North American (Please specify below)
+Prefer not to disclose
+Other (please specify)
+
+
+Were you born in a country other than Australia?
+No
+Yes (If yes what country?)
+What country?
+Prefer not to disclose
+
+
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 3 - Personal Career Development Plan and Goals ** ]----------------- 
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "My existing professional skills and expertise are valued"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "It is safe to fail fast and learn quickly"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "My learning desires are acknowledged in my professional development"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "Feedback on my performance is transparent"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "Feedback on my performance is actionable"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "Feedback is on my performance is communicated professionally"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "My development plan and goals are clearly stated"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "My development plan is achievable"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "My development plan is easy to understand"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "My development plan will help me reach my potential in the short term"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "My development plan will help me reach my long term professional objectives"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "I feel satisfied with my development plan and goals"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "Resolving problems successfully impacts positively on my performance review"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Please answer in terms of how much you agree or disagree with the following statement, "I am able to access the training I need to succeed"
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+How likely is it that you would recommend your manager's approach to your development to a friend or colleague?
+0 - Not at all likely
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 - Extremely likely
+
+
+Please add any other comments about your career development plan and goals 
+Enter comments
+
+
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 4 - Relationships with your operational manager, leaders and team (Do your operational in-team relationships help you succeed in your career?Please answer on a scale from strongly disagree to strongly agree) ** ]----------------- 
+
+
+There is trust in my relationship with my direct manager
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My manager helps me succeed
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My manager supports me to reach my potential
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+It feels safe to express different points of view to my manager and others in the UX and Design team
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My manager supports me playing to my strengths
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My manager helps me resolve tough problems in a practical way
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+I feel confident my manager will listen to my point of view, even if it is different to others
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My manager communicates objectives and key results clearly in relation to my performance
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My manager and I have developed a clear development path, in line with team development frameworksframeworks
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My manager and I have developed a clear development path, in line with organisational values
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+The UX and Design Leadership team provide clarity on strategic direction and priorities
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+I feel that I can contribute the end-to-end design process, regardless of my job title
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Members of the UX and Design team are aligned to operational UX and design specific objectives
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Team members support each other and collaborate effectively
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My UX and Design team leaders are accountable for their actions
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My UX and Design team leaders communicate clearly
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+In the UX and Design team, the same standards apply to everyone
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+There is clarity on how the success of of the team and/or individuals is measured
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Information is distributed in a clear, transparent way
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Important information is communicated in an appropriate way
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+I have a good relationship with my team peers
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+I have a good relationship with my direct manager
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+I have a good relationship with UX and Design operational leaders other than my direct manager
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Social relationships do not interfere with my ability to receive the same professional opportunities asother members of my team
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My team is inclusive, not exclusive
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My team is gender diverse
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My team is ethnically diverse
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+There is active and visible sponsorship from UX and Design team leaders for minorities to reach senior leadership roles in my team
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Members of the UX and Design team are empowered to think differently
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Members of the UX and Design team are empowered to contribute
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+How likely is it that you would recommend your UX and Design team to a friend or colleague?
+0 - Not at all likely
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 - Extremely likely
+
+
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 5 - Relationships with your delivery/project team (including product manager, engineering and tech etc). ** ]----------------- 
+
+
+There is trust in my delivery/project team
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Members of my team help each other
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+It feels safe for team members to express different points of view
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+In my delivery/project team, we play to our strengths, collaboratively
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My team can resolve tough problems in a practical way, together
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My team has clear objectives and key results
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+We have clarity on direction and priorities
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Members of my team are engaged
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+Team members are accountable for their responsibilities
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+In my delivery team, the same standards apply to everyone
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+There is clarity on how the success of the team is measured
+Strongly disagree 
+DisagreeNeither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+How likely is it that you would recommend your delivery/project team to a friend or colleague?
+0 - Not at all likely
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 - Extremely likely
+
+
+Please add any other comments about the UX and Design team
+Enter comments
+
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 6 - Perception of your organisation ** ]----------------- 
+
+
+How is information shared in your organisation?
+Information is hidden 
+Information may be ignored 
+Information is actively sought 
+N/A
+Other (please specify)
+
+
+In general, how do you view your leaders?
+Leaders are not doing a good job 
+Leaders are just 'ok', doing a satisfactory job
+Leaders are inspirational, doing a very good job
+N/A
+Other (please specify)
+
+
+How are responsibilities owned in your organisation?
+Responsibilities are shirked
+Responsibilities are compartmentalised
+Responsibilities are shared
+N/A
+Other (please specify)
+
+
+How is cross-functional collaboration supported?
+Cross-functional collaboration between teams is discouragedCross-functional collaboration between teams is allowed but discouragedCross-functional collaboration between teams is rewarded
+N/A
+Other (please specify)
+
+
+How is failure dealt with in your organisation?
+Failure is covered upFailure is tolerated and the organisation is mercifulFailure results in a learning outcome and actions
+N/A
+Other (please specify)
+
+
+How open is the organisation to new ideas and perspectives?
+New ideas and perspectives are crushed 
+New ideas create problems 
+New ideas are welcomed
+N/A
+Other (please specify)
+
+
+How likely is it that you would recommend your organisation to a friend or colleague?
+0 - Not at all likely
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 - Extremely likely
+
+Please add any other comments about your delivery/project team
+Enter comments
+
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 7 - Thank you 🙏 - that's a wrap! ** ]----------------- 
+
+You have completed the survey. We really appreciate your time and effort in filling it in. The UX andDesign team leadership will consider the information carefully and communicate back theaggregate results.
+
+
+© CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
+ 
