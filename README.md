@@ -1,5 +1,14 @@
 # teamkit-ux-design
 Team Kit for UX and Design -- (Creative Commons Attribution License - BY)
 
-Team Kit for UX and Design teams will include a range of assets to help you manage feedback on team health, culture, collaboration and individual career management. 
+Team Kit for UX and Design teams is awesome! 
+
+Find a range of assets to help you manage feedback on team health, culture, collaboration and individual career management.
+
+First of the ranks is Team Kit for UX and Design teams:
+* Team Health Survey
+    * Team Health Survey for Survey Monkey
+
+All contents of TeamKit are created under a Creative Commons Attribution Licence. 
+© CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
 
