@@ -1,5 +1,5 @@
 # teamkit-ux-design
-Team Kit for UX and Design -- (Creative Commons Attribution License)
+Team Kit for UX and Design -- (Creative Commons Attribution License - Catherine Hills 2018)
 
 *This is the README for the UX and Design Team Health Survey - created for Survey Monkey*
 
