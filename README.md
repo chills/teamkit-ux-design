@@ -3,13 +3,21 @@ Team Kit for UX and Design -- (Creative Commons Attribution License)
 
 *This is the README for the UX and Design Team Health Survey - created for Survey Monkey*
 
+Version 1.1 of the UX and Design Team Health survey has been influenced by the following frameworks. 
+-   https://www.tablegroup.com/books/dysfunctions (team dynamics)
+-   https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/ (1, 2 and 3)
+-   http://www.netpromotersystem.com/about/employee-engagement.aspx
+-   https://www.andykelk.net/devops/using-the-westrum-typology-to-measure-culture
+
+This is Open Source and you can contribute back to the community by creating a branch with your version of the survey. 
+
 *What does this survey measure? 
 
 The purpose of the survey is to understand how individuals are feeling about the following factors: 
-- their career development plans and goals;
-- how they feel about their manager, their operational team and leadership;
-- their delivery/project team (eg. embedded designers in agile teams); and 
-- the wider organisation
+-   the team member's thoughts about their career development plans and goals;
+-   the team member's feelings about their manager, their operational team and leadership;
+-   the team member's feelings about their delivery/project team (eg. embedded designers in agile teams); and 
+-   the team member's perception the wider organisation
 
 The survey can be used as a one-off or a routine benchmark. 
 It incorporates tried and tested frameworks such as eNPS, psychological safety and team functioning, as well as systems thinking.*
