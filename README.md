@@ -20,7 +20,7 @@ The purpose of the survey is to understand how individuals are feeling about the
 -   the team member's perception the wider organisation
 
 The survey can be used as a one-off or a routine benchmark. 
-It incorporates tried and tested frameworks such as eNPS, psychological safety and team functioning, as well as systems thinking.*
+It incorporates tried and tested frameworks such as eNPS, psychological safety and team functioning, as well as systems thinking.
 
 Team Kit for UX and Design teams is awesome!
 
