@@ -21,6 +21,7 @@ Product Designer
 Visual Designer
 UX Researcher
 Interaction Designer
+Service Designer
 UX Engineer
 UX Manager
 Other (please specify)
@@ -31,6 +32,7 @@ Associate
 Mid-level
 Senior
 Lead
+Principal
 Head of Operations
 
 
