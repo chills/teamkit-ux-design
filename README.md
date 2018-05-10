@@ -6,8 +6,8 @@ Team Kit for UX and Design -- (Creative Commons Attribution License)
 Version 1.1 of the UX and Design Team Health survey has been influenced by the following frameworks. 
 -   https://www.tablegroup.com/books/dysfunctions (team dynamics)
 -   https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/ (1, 2 and 3)
--   http://www.netpromotersystem.com/about/employee-engagement.aspx
--   https://www.andykelk.net/devops/using-the-westrum-typology-to-measure-culture
+-   http://www.netpromotersystem.com/about/employee-engagement.aspx (using benchmark recommendation scale for promoter score)
+-   https://www.andykelk.net/devops/using-the-westrum-typology-to-measure-culture (see test information)
 
 This is Open Source and you can contribute back to the community by creating a branch with your version of the survey. 
 
