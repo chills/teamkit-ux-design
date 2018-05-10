@@ -9,7 +9,7 @@ Version 1.1 of the UX and Design Team Health survey has been influenced by the f
 -   http://www.netpromotersystem.com/about/employee-engagement.aspx (using benchmark recommendation scale for promoter score)
 -   https://www.andykelk.net/devops/using-the-westrum-typology-to-measure-culture (see test information)
 
-This is Open Source and you can contribute back to the community by creating a branch with your version of the survey. 
+This is Open Source and you can contribute back to the community by creating a branch with your version of the survey. It is also possible to test this survey feedback with other operational functions eg. product managers and engineering. 
 
 *What does this survey measure?*
 
