@@ -4,7 +4,7 @@ REFER TO READ ME
 © CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
 Creative Commons Attribution License
 
-Intro text: Hello, welcome to the UX and Design Team team health survey! We'd love to understand how you feel about: * your own role; * your delivery team; and * the UX and Design team; and * the wider organisation. Contributing your individual views is important so we can support you and improve your career with us. Your responses will be de-identified when shared with your leaders and/or the wider organisation. Thanks so much! Now let's begin.
+Intro text: Hello, welcome to the UX and Design Team health survey! We'd love to understand how you feel about: * your own role; * your delivery team; and * the UX and Design team; and * the wider organisation. Contributing your individual views is important so we can support you and improve your career with us. Your responses will be de-identified when shared with your leaders and/or the wider organisation. Thanks so much! Now let's begin.
 
 
 ----------------- [INSERT IN-FORM PAGE BREAK ** Page 2 - About you **]----------------- 
@@ -95,122 +95,144 @@ What country?
 Prefer not to disclose
 
 
------------------ [INSERT IN-FORM PAGE BREAK ** Page 3 - Personal Career Development Plan and Goals ** ]----------------- 
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 3 - Personal Career Development Plan and Goals (Please answer in terms of how much you agree or disagree with the following statement) ** ]----------------- 
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "My existing professional skills and expertise are valued"
+"My existing professional skills and expertise are valued"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "It is safe to fail fast and learn quickly"
+"It is safe to fail fast and learn quickly"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "My learning desires are acknowledged in my professional development"
+"My development expectations are acknowledged in my development plan and goals"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "Feedback on my performance is transparent"
+"The way feedback is on my performance is communicated is transparent"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "Feedback on my performance is actionable"
+"Feedback on my performance is actionable"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "Feedback is on my performance is communicated professionally"
+"Feedback is on my performance is communicated professionally"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "My development plan and goals are clearly stated"
+"My development plan and goals are clearly communicated"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "My development plan is achievable"
+"My development plan is achievable"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "My development plan is easy to understand"
+"My development plan is easy to understand"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "My development plan will help me reach my potential in the short term"
+"I feel my development plan will help me reach my potential in the short term"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "My development plan will help me reach my long term professional objectives"
+"I feel my development plan will help me reach my long term professional objectives"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "I feel satisfied with my development plan and goals"
+"I feel satisfied with my development plan and goals"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "Resolving problems successfully impacts positively on my performance review"
+"I am provided with support if I experience challenges"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+"I am provided with training opportunities if I experience challenges"
+Strongly disagree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Please answer in terms of how much you agree or disagree with the following statement, "I am able to access the training I need to succeed"
+"I am able to access the training I need to learn and grow professionally"
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-How likely is it that you would recommend your manager's approach to your development to a friend or colleague?
+How likely is it that you would recommend the approach provided to your development to a friend or colleague?
 0 - Not at all likely
 1
 2
@@ -228,12 +250,14 @@ Please add any other comments about your career development plan and goals
 Enter comments
 
 
------------------ [INSERT IN-FORM PAGE BREAK ** Page 4 - Relationships with your operational manager, leaders and team (Do your operational in-team relationships help you succeed in your career?Please answer on a scale from strongly disagree to strongly agree) ** ]----------------- 
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 4 - Relationships with your operational manager, leaders and team (
+Please answer on a scale from strongly disagree to strongly agree) ** ]----------------- 
 
 
 There is trust in my relationship with my direct manager
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -241,23 +265,17 @@ Please tell us why you answered this way
 
 My manager helps me succeed
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-My manager supports me to reach my potential
+It feels safe to express alternative points of view to my manager 
 Strongly disagree 
-DisagreeNeither disagree or agree 
-Agree 
-Strongly Agree 
-Please tell us why you answered this way
-
-
-It feels safe to express different points of view to my manager and others in the UX and Design team
-Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -265,7 +283,8 @@ Please tell us why you answered this way
 
 My manager supports me playing to my strengths
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -273,7 +292,8 @@ Please tell us why you answered this way
 
 My manager helps me resolve tough problems in a practical way
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -281,7 +301,8 @@ Please tell us why you answered this way
 
 I feel confident my manager will listen to my point of view, even if it is different to others
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -289,15 +310,18 @@ Please tell us why you answered this way
 
 My manager communicates objectives and key results clearly in relation to my performance
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-My manager and I have developed a clear development path, in line with team development frameworksframeworks
+My manager and I have developed a clear development path, in line with team development frameworks
+frameworks
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -305,7 +329,8 @@ Please tell us why you answered this way
 
 My manager and I have developed a clear development path, in line with organisational values
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -313,7 +338,8 @@ Please tell us why you answered this way
 
 The UX and Design Leadership team provide clarity on strategic direction and priorities
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -321,7 +347,8 @@ Please tell us why you answered this way
 
 I feel that I can contribute the end-to-end design process, regardless of my job title
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -329,7 +356,8 @@ Please tell us why you answered this way
 
 Members of the UX and Design team are aligned to operational UX and design specific objectives
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -337,39 +365,44 @@ Please tell us why you answered this way
 
 Team members support each other and collaborate effectively
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-My UX and Design team leaders are accountable for their actions
+My Design team leaders are accountable for their actions
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-My UX and Design team leaders communicate clearly
+My Design team leaders communicate clearly
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-In the UX and Design team, the same standards apply to everyone
+In the Design team, the same standards apply to everyone
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-There is clarity on how the success of of the team and/or individuals is measured
+There is clarity on how the success of of the team is measured
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -377,7 +410,8 @@ Please tell us why you answered this way
 
 Information is distributed in a clear, transparent way
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -385,7 +419,8 @@ Please tell us why you answered this way
 
 Important information is communicated in an appropriate way
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -393,7 +428,8 @@ Please tell us why you answered this way
 
 I have a good relationship with my team peers
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -401,77 +437,78 @@ Please tell us why you answered this way
 
 I have a good relationship with my direct manager
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-I have a good relationship with UX and Design operational leaders other than my direct manager
+I have a good relationship with other operational leaders in design (other than my direct manager)
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Social relationships do not interfere with my ability to receive the same professional opportunities asother members of my team
+Social relationships do not interfere with my ability to receive the same professional opportunities as
+other members of my team
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-My team is inclusive, not exclusive
+My team is inclusive
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-My team is gender diverse
+My team is diverse
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-My team is ethnically diverse
+There is active and visible sponsorship from Design team leaders for minorities to reach senior leadership roles in my team
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-There is active and visible sponsorship from UX and Design team leaders for minorities to reach senior leadership roles in my team
+Members of the Design team are empowered to think differently
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Members of the UX and Design team are empowered to think differently
+Members of the Design team are empowered to contribute their ideas to strategic direction and initiatives
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
 
 
-Members of the UX and Design team are empowered to contribute
-Strongly disagree 
-DisagreeNeither disagree or agree 
-Agree 
-Strongly Agree 
-Please tell us why you answered this way
-
-
-How likely is it that you would recommend your UX and Design team to a friend or colleague?
+How likely is it that you would recommend your Design team to a friend or colleague?
 0 - Not at all likely
 1
 2
@@ -490,7 +527,8 @@ How likely is it that you would recommend your UX and Design team to a friend or
 
 There is trust in my delivery/project team
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -498,7 +536,8 @@ Please tell us why you answered this way
 
 Members of my team help each other
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -506,7 +545,8 @@ Please tell us why you answered this way
 
 It feels safe for team members to express different points of view
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -514,7 +554,8 @@ Please tell us why you answered this way
 
 In my delivery/project team, we play to our strengths, collaboratively
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -522,7 +563,8 @@ Please tell us why you answered this way
 
 My team can resolve tough problems in a practical way, together
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -530,7 +572,8 @@ Please tell us why you answered this way
 
 My team has clear objectives and key results
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -538,7 +581,8 @@ Please tell us why you answered this way
 
 We have clarity on direction and priorities
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -546,7 +590,8 @@ Please tell us why you answered this way
 
 Members of my team are engaged
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -554,7 +599,8 @@ Please tell us why you answered this way
 
 Team members are accountable for their responsibilities
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -562,7 +608,8 @@ Please tell us why you answered this way
 
 In my delivery team, the same standards apply to everyone
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -570,7 +617,8 @@ Please tell us why you answered this way
 
 There is clarity on how the success of the team is measured
 Strongly disagree 
-DisagreeNeither disagree or agree 
+Disagree
+Neither disagree or agree 
 Agree 
 Strongly Agree 
 Please tell us why you answered this way
@@ -621,13 +669,17 @@ Other (please specify)
 
 
 How is cross-functional collaboration supported?
-Cross-functional collaboration between teams is discouragedCross-functional collaboration between teams is allowed but discouragedCross-functional collaboration between teams is rewarded
+Cross-functional collaboration between teams is discouraged
+Cross-functional collaboration between teams is allowed but discouraged
+Cross-functional collaboration between teams is rewarded
 N/A
 Other (please specify)
 
 
 How is failure dealt with in your organisation?
-Failure is covered upFailure is tolerated and the organisation is mercifulFailure results in a learning outcome and actions
+Failure is covered up
+Failure is tolerated and the organisation is merciful
+Failure results in a learning outcome and actions
 N/A
 Other (please specify)
 
@@ -658,7 +710,9 @@ Enter comments
 
 ----------------- [INSERT IN-FORM PAGE BREAK ** Page 7 - Thank you 🙏 - that's a wrap! ** ]----------------- 
 
-You have completed the survey. We really appreciate your time and effort in filling it in. The UX andDesign team leadership will consider the information carefully and communicate back theaggregate results.
+You have completed the survey. We really appreciate your time and effort in filling it in. The UX and
+Design team leadership will consider the information carefully and communicate back the
+aggregate results.
 
 
 © CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
