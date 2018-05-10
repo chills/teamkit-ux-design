@@ -7,9 +7,8 @@ Team Kit for UX and Design -- (Creative Commons Attribution License)
 
 The purpose of the survey is to understand how individuals are feeling about the following factors: 
 - their career development plans and goals;
-- how they feel about their manager;
-- their operational team and leadership;
-- their delivery/project team; and 
+- how they feel about their manager, their operational team and leadership;
+- their delivery/project team (eg. embedded designers in agile teams); and 
 - the wider organisation
 
 The survey can be used as a one-off or a routine benchmark. 
