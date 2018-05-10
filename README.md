@@ -11,7 +11,7 @@ Version 1.1 of the UX and Design Team Health survey has been influenced by the f
 
 This is Open Source and you can contribute back to the community by creating a branch with your version of the survey. 
 
-*What does this survey measure? 
+*What does this survey measure?*
 
 The purpose of the survey is to understand how individuals are feeling about the following factors: 
 -   the team member's thoughts about their career development plans and goals;
