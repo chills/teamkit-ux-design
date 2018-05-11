@@ -95,7 +95,7 @@ What country?
 Prefer not to disclose
 
 
------------------ [INSERT IN-FORM PAGE BREAK ** Page 3 - Personal Career Development Plan and Goals (Please answer in terms of how much you agree or disagree with the following statement) ** ]----------------- 
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 3 - Personal Career Development Plan and Goals (Please answer in terms of how much you agree or disagree with the following statements) ** ]----------------- 
 
 
 "My existing professional skills and expertise are valued"
@@ -250,8 +250,7 @@ Please add any other comments about your career development plan and goals
 Enter comments
 
 
------------------ [INSERT IN-FORM PAGE BREAK ** Page 4 - Relationships with your operational manager, leaders and team (
-Please answer on a scale from strongly disagree to strongly agree) ** ]----------------- 
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 4 - Relationships with your operational manager, leaders and team (Please answer in terms of how much you agree or disagree with the following statements) ** ]----------------- 
 
 
 There is trust in my relationship with my direct manager
@@ -290,7 +289,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-My manager helps me resolve tough problems in a practical way
+My manager helps me resolve tough problems with actionable strategies
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -327,7 +326,17 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-My manager and I have developed a clear development path, in line with organisational values
+My development plan and goals are in line with team development frameworks specific to Design
+frameworks
+Strongly disagree 
+Disagree
+Neither disagree or agree 
+Agree 
+Strongly Agree 
+Please tell us why you answered this way
+
+
+My development plan and goals are in line with team organisational values
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -345,7 +354,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-I feel that I can contribute the end-to-end design process, regardless of my job title
+I feel that I can contribute the end-to-end Design process, regardless of my job title
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -354,7 +363,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-Members of the UX and Design team are aligned to operational UX and design specific objectives
+Members of the UX and Design team are aligned to operational UX and Design specific objectives
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -481,7 +490,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-There is active and visible sponsorship from Design team leaders for minorities to reach senior leadership roles in my team
+There is active and visible sponsorship of minorities from Design team leaders
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -522,7 +531,7 @@ How likely is it that you would recommend your Design team to a friend or collea
 10 - Extremely likely
 
 
------------------ [INSERT IN-FORM PAGE BREAK ** Page 5 - Relationships with your delivery/project team (including product manager, engineering and tech etc). ** ]----------------- 
+----------------- [INSERT IN-FORM PAGE BREAK ** Page 5 - Relationships with your delivery/project team eg. product manager, engineering and tech etc.  (Please answer in terms of how much you agree or disagree with the following statements)  ** ]----------------- 
 
 
 There is trust in my delivery/project team
@@ -638,7 +647,7 @@ How likely is it that you would recommend your delivery/project team to a friend
 10 - Extremely likely
 
 
-Please add any other comments about the UX and Design team
+Please add any other comments about the project/delivery team
 Enter comments
 
 ----------------- [INSERT IN-FORM PAGE BREAK ** Page 6 - Perception of your organisation ** ]----------------- 
@@ -705,7 +714,7 @@ How likely is it that you would recommend your organisation to a friend or colle
 9
 10 - Extremely likely
 
-Please add any other comments about your delivery/project team
+Please add any other comments about your organisation
 Enter comments
 
 ----------------- [INSERT IN-FORM PAGE BREAK ** Page 7 - Thank you 🙏 - that's a wrap! ** ]----------------- 
