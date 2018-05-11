@@ -38,8 +38,8 @@ All contents of Team Kit are created under a Creative Commons Attribution Licenc
 
 Notes about Team Kit Resources on GitHub:
 -   We are open to feedback. Create a pull request here on Github and we will review your request (minimum 5 +1 to merge           needed). 
--   This is Open Source and you can contribute back to the community by creating a fork with your version of the survey. 
+-   Team Kit is Open Source and you can contribute back to the community by creating a fork with your version of the survey. 
 -   It is also possible to test this survey feedback with other operational functions eg. product managers and engineering.       The survey can be used as a one-off or a routine benchmark. 
--   It incorporates tried and tested frameworks such as eNPS, psychological safety and team functioning, as well as systems       thinking.
+-   Team Kit incorporates tried and tested frameworks such as eNPS, psychological safety and team functioning, as well as         systems thinking.
 
 © CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
