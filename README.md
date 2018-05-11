@@ -4,23 +4,21 @@ Team Kit for UX and Design -- (Creative Commons Attribution License - Catherine 
 *This is the README for the UX and Design Team Health Survey - created for Survey Monkey*
 
 Version 1.1 of the UX and Design Team Health survey has been influenced by the following frameworks. 
+
 -   https://www.tablegroup.com/books/dysfunctions (team dynamics)
 -   https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/ (1, 2 and 3)
 -   http://www.netpromotersystem.com/about/employee-engagement.aspx (using benchmark recommendation scale for promoter score)
 -   https://www.andykelk.net/devops/using-the-westrum-typology-to-measure-culture (see test information)
 
-This is Open Source and you can contribute back to the community by creating a fork with your version of the survey. It is also possible to test this survey feedback with other operational functions eg. product managers and engineering. 
+This is Open Source and you can contribute back to the community by creating a fork with your version of the survey. It is also possible to test this survey feedback with other operational functions eg. product managers and engineering. The survey can be used as a one-off or a routine benchmark. It incorporates tried and tested frameworks such as eNPS, psychological safety and team functioning, as well as systems thinking.
 
 *What does this survey measure?*
 
-The purpose of the survey is to understand how individuals are feeling about the following factors: 
--   the team member's thoughts about their career development plans and goals;
--   the team member's feelings about their manager, their operational team and leadership;
--   the team member's feelings about their delivery/project team (eg. embedded designers in agile teams); and 
--   the team member's perception the wider organisation
-
-The survey can be used as a one-off or a routine benchmark. 
-It incorporates tried and tested frameworks such as eNPS, psychological safety and team functioning, as well as systems thinking.
+The purpose of the survey is to understand how individuals are feeling about the following factors relating to the team member's perception of and satisfaction with: 
+-   their career development plans and goals;
+-   their manager, operational function and leadership;
+-   their delivery/project team (eg. embedded designers in agile teams); and 
+-   the wider organisation
 
 Team Kit for UX and Design teams is awesome!
 
@@ -36,7 +34,7 @@ PRO-TIP: for employee confidentiality maintain a permissions managed repository 
 4)  Select the checkbox that says "My questions are already written"
 5)  Then, open your UX and Design Team Health survey text file and select everything
 6)  Your next action is to copy and paste the contents of the text file into the open comment field displayed in Survey           Monkey, titled "Copy and Paste Questions" 
-7)  Hit "Add Questions" in the dialoge box and you're done!
+7)  Hit "Add Questions" in the dialogue box and you're done!
 
 
 All contents of Team Kit are created under a Creative Commons Attribution Licence.
