@@ -42,4 +42,4 @@ Notes about Team Kit Resources on GitHub:
 -   It is also possible to test this survey feedback with other operational functions eg. product managers and engineering.       The survey can be used as a one-off or a routine benchmark. 
 -   Team Kit incorporates tried and tested frameworks such as eNPS, psychological safety and team functioning, as well as         systems thinking.
 
-© CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
+© CATHERINE HILLS DESIGN - 2025 ALL RIGHTS RESERVED 
