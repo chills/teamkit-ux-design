@@ -14,6 +14,7 @@ Email Address
 
 
 What is your role?
+Designer
 UX Designer
 Product Designer
 Visual Designer
@@ -22,6 +23,18 @@ Interaction Designer
 Service Designer
 UX Engineer
 UX Manager
+Design Manager
+Product Design Manager
+Experience Design Manager
+Research Manager
+UX Research Manager 
+UX Research Director 
+Design Director
+Product Design Director 
+Experience Design Director
+Chief Design Officer 
+Head of Design
+Head of Research
 Other (please specify)
 
 
@@ -30,7 +43,9 @@ Associate
 Mid-level
 Senior
 Lead
+Manager
 Principal
+Director
 Head of Operations
 
 
@@ -72,6 +87,7 @@ Other (please specify)
 What is your gender?
 Male
 Female
+Non-Binary
 Prefer not to disclose
 Other (please specify)
 
@@ -326,7 +342,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-My development plan and goals are in line with team development frameworks specific to Design
+My development plan and goals are in line with team development frameworks specific to Design and/or Research
 frameworks
 Strongly disagree 
 Disagree
@@ -345,7 +361,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-The UX and Design Leadership team provide clarity on strategic direction and priorities
+My immediate Leadership team provide clarity on strategic direction and priorities
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -363,7 +379,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-Members of the UX and Design team are aligned to operational UX and Design specific objectives
+Members of my Leadership team are aligned to specific operational objectives
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -372,7 +388,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-Team members support each other and collaborate effectively
+My peers support each other and collaborate effectively
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -381,7 +397,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-My Design team leaders are accountable for their actions
+My team leaders are accountable for their actions
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -390,7 +406,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-My Design team leaders communicate clearly
+My team leaders communicate clearly
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -399,7 +415,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-In the Design team, the same standards apply to everyone
+In my team, the same standards apply to everyone
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -490,7 +506,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-There is active and visible sponsorship of minorities from Design team leaders
+There is active and visible sponsorship of minorities from my leaders
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -499,7 +515,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-Members of the Design team are empowered to think differently
+Members of my team are empowered to think differently
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -508,7 +524,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-Members of the Design team are empowered to contribute their ideas to strategic direction and initiatives
+Members of my team are empowered to contribute their ideas to strategic direction and initiatives
 Strongly disagree 
 Disagree
 Neither disagree or agree 
@@ -517,7 +533,7 @@ Strongly Agree
 Please tell us why you answered this way
 
 
-How likely is it that you would recommend your Design team to a friend or colleague?
+How likely is it that you would recommend your team to a friend or colleague?
 0 - Not at all likely
 1
 2
@@ -724,5 +740,5 @@ Design team leadership will consider the information carefully and communicate b
 aggregate results.
 
 
-© CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
+© CATHERINE HILLS DESIGN - ALL RIGHTS RESERVED 2025
  
