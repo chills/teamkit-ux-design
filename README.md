@@ -12,5 +12,5 @@ First off the ranks are Team Kit for UX and Design team surveys:
 
 All contents of Team Kit are created under a Creative Commons Attribution Licence. 
 
-© CATHERINE HILLS DESIGN - CHA ASSOCIATES 2018
+© CATHERINE HILLS DESIGN 2025 ALL RIGHTS RESERVED
 
