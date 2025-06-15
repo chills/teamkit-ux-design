@@ -2,7 +2,7 @@
 
 # teamkit-ux-design
 
-Team Kit for teams is awesome! Recently updated, I designed this survey for design and research teams 7 years ago but it can easily be applied across disciplines. 
+Team Kit for teams is awesome! Recently updated, I designed this survey for design and research teams 7 years ago but it can easily be applied across disciplines in technology organisations eg. product, engineering. 
 
 Find a range of assets to help you manage feedback on team health, culture, collaboration and individual career management.
 
